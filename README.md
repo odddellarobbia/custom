@@ -40,3 +40,6 @@ bot.logNewBlacklistedSongs(); //get a list
 Copyright
 ---------
 Copyright &copy; 2014-2016 basicBot
+
+
+TEST 1
